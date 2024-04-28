@@ -344,6 +344,6 @@ WhiteListedJobs = {
 }
 
 Texts = {
-	["Enter"] = "You are in a SafeZone",
-	["Exit"] = "Your are no longer in a SafeZone",
+	["Enter"] = "Güvenli Bölgedesiniz",
+	["Exit"] = "Artık SafeZone'da değilsiniz",
 }
