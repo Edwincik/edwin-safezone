@@ -1,7 +1,6 @@
 CheckLoopTime = 1000
 
 AllZones = {
-
 	["Motel"] = {
 		Debug = false,
 		Zones = {
